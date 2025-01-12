@@ -30,8 +30,8 @@ Material:
     m_Floats:
     - _WorkflowMode: 0
     m_Colors:
-    - _BaseColor: {r: 0.37006044, g: 0.7132075, b: 0.38015303, a: 1}
-    - _Color: {r: 0.3700604, g: 0.7132074, b: 0.380153, a: 1}
+    - _BaseColor: {r: 0.7735849, g: 0.32548946, b: 0.59083223, a: 1}
+    - _Color: {r: 0.7735849, g: 0.32548943, b: 0.59083223, a: 1}
     - _EmissionColor: {r: 0.0884434, g: 0.25, b: 0.23768419, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
